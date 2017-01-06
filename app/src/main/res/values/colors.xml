@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="arg_333333">#333333</color>
+    <color name="arg_F4CDA2">#F4CDA2</color>
+    <color name="arg_F9F6F4">#F9F6F4</color>
+    <color name="arg_E4DCD4">#E4DCD4</color>
+    <color name="arg_999999">#999999</color>
+    <color name="arg_D46345">#D46345</color>
+</resources>

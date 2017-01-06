@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/arg_F9F6F4"
+    android:layout_height="70dp">
+    <com.tongna.animationed.view.MyEditText
+        android:id="@+id/edittext_item_ed"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="请输入"
+        android:textColorHint="@color/arg_999999"
+        android:gravity="center"
+        android:textColor="@color/arg_F4CDA2"
+        android:textCursorDrawable="@color/arg_333333"
+        />
+    <TextView
+        android:id="@+id/edittext_item_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/margin_17"
+        android:text="手机"
+        android:gravity="center"
+        android:visibility="invisible"
+        android:textSize="@dimen/text_size_16"
+        android:textColor="@color/arg_333333"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="edittext_animation">
+        <attr name="texthint" format="string"/>
+        <attr name="texthintcolor" format="color"/>
+        <attr name="texthinttextsize" format="integer"/>
+
+        <attr name="edithint" format="string"/>
+        <attr name="edithintcolor" format="color"/>
+
+        <attr name="edittextsize" format="integer"/>
+        <attr name="edittextcolor" format="color"/>
+    </declare-styleable>
+</resources>
